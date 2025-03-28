@@ -38,7 +38,7 @@ Total estimado:  < 15 Kb's
 
 # Estratégia de Backup e Recuperação
 
-#### Backup de Dados em GitHub
+### Backup de Dados em GitHub
 Utilizaremos o próprio GitHub para efetuar o Backup
 
 Vantagens:
@@ -51,8 +51,6 @@ Configuração do Repositório:
 - Criar diretório padrão privado (+ seguro)
 
 - Tamanho Backup: O GitHub tem limites para o tamanho de repositórios e arquivos, com limite de 100 MB por arquivo e 1 GB por repositório.
-
-# Ferramentas Utilizadas
 
 
 
